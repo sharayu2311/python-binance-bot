@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (SECRET)
+.env
+
+# Logs
+bot.log
+
+# System files
+.DS_Store
